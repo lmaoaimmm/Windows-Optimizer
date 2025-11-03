@@ -1,7 +1,7 @@
 # Windows-Optimizer
 
 🍩 Springfield Tune-Up 🚀: Windows Optimizer for Fortnite's Simpsons Season!
-Your Program Name Here | A Windows Optimization Utility for Maximum FPS & Latency Reduction in Fortnite.
+Envy Optimization  | A Windows Optimization Utility for Maximum FPS & Latency Reduction in Fortnite.
 
 ✨ Project Description
 Stuttering framerates and high ping can turn a Victory Royale into a D'oh! The Springfield Tune-Up is a lightweight, one-click Windows utility specifically designed to maximize performance and reduce input latency for the newest Fortnite season.
